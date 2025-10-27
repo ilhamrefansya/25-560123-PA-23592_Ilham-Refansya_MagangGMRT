@@ -14,3 +14,4 @@ for i in range(n):
 print("\nhasil forward kinematics")
 print(f"x = {x:.4f}")
 print(f"y = {y:.4f}")
+
